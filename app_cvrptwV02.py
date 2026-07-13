@@ -433,7 +433,7 @@ st.markdown("---")
 
 st.markdown("""
 <div style='text-align:center; color:Maroon; font-size:13px;'>
-<b>Capacitated Vehicle Routing Problem</b><br>
+<b>DISTRIBUTION ROUTE OPTIMIZATION SYSTEM</b><br>
 Developed by Elementary Laboratory of Industrial Engineering<br>
 © ELITE UG
 </div>
