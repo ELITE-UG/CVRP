@@ -24,7 +24,17 @@ if "num_locations" not in st.session_state:
 st.set_page_config(page_title="Distribution Route Optimization System", layout="wide", page_icon="🚚")
 
 # --- HEADER ---
-st.title("Distribution Route Optimization System")
+col1, col2 = st.columns([1,5])
+
+with col1:
+    st.image(
+    "https://raw.githubusercontent.com/ELITE-UG/MRP_11_METHOD/main/ELITE%20UG%20%28Original%29%20%281%29.png",
+    width=120
+)
+    
+
+with col2:
+    st.title("Distribution Route Optimization System")
 
 # -------------------------------
 # OSRM helpers
