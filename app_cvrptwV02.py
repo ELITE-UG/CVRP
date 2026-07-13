@@ -422,7 +422,7 @@ if st.session_state.optimization_result:
 st.markdown("---")
 
 st.markdown("""
-<div style='text-align:center; color:Blue; font-size:13px;'>
+<div style='text-align:center; color:Maroon; font-size:13px;'>
 <b>Capacitated Vehicle Routing Problem</b><br>
 Developed by Elementary Laboratory of Industrial Engineering<br>
 © ELITE UG
