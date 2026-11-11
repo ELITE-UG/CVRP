@@ -5,4 +5,3 @@ streamlit-folium
 pandas
 requests
 openpyxl
-pywrapcp
